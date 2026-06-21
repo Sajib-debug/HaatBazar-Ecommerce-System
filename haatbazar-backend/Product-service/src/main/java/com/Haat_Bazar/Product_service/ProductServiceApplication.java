@@ -1,4 +1,4 @@
-package com.Haat_Bazar.Product_service;
+package com.Haat_Bazar.product_service;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
